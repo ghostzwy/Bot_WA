@@ -1,0 +1,17 @@
+{
+    "name" : "danangbot",
+    "version": "1.0",
+    "description": "Dannang bot WA",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Danang",
+    "license": "MIT",
+    "dependencies": {
+    "@whiskeysockets/baileys": "^6.0.0",
+    "chalk": "^4.1.2",
+    "pino": "^8.1.0",
+    "qrcode-terminal": "^0.12.0"
+    }
+}
